@@ -791,7 +791,7 @@ input[type=text], input[type=password], input[type=email] {
       font-weight: normal; }
     .item-grid-c .item-img .i-text,
     .item-grid-c .item-img p {
-      max-width: 80%; }
+      max-width: 100%; }
   .item-grid-c:hover .hover-shadow .item-img {
     box-shadow: 0px 0px 16px rgba(128, 128, 128, 0.2); }
   .item-grid-c:hover .item-img.straight-border {
